@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you. I'm Lana </h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you. I'm Matheus </h1>
 <p align="center"> <strong> Matheus Mendes - Software Engineer </strong><p>
 
 Welcome to my Github!
@@ -11,8 +11,8 @@ Welcome to my Github!
 - 📫 How to reach me: [Matheus Mendes](www.linkedin.com/in/matheus-mendes947) on LinkedIn
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&layout=compact&theme=radical)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=donut&theme=radical)](https://github.com/lanaandrade/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=MatheusMendes947&show_icons=true&layout=compact&theme=radical)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMendes947&layout=donut&theme=radical)](https://github.com/MatheusMendes947/github-readme-stats)
 
 ### Things I code with
 <p>
